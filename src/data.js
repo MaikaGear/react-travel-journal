@@ -7,7 +7,7 @@ export default [
         startDate: "2025",
         endDate: "To Be Determined",
         description: "Tokyo is one of the most beautiful cities I've ever seen in photos. It's the first thing I think of when I hear the word \"City\". I love the culture and food in Japan and I have been learning Japanese for some time now. ",
-        image: "../public/tokyo.jpg"
+        image: "images/tokyo.jpg"
     },
     {
         id: 2,
@@ -17,7 +17,7 @@ export default [
         startDate: "2025",
         endDate: "To Be Determined",
         description: "I read about Macchu Picchu on National Geographic one time and had been interested ever since. I also explored the location in VR but I would love to visit in person. Something about visiting a landmark with so much history behind it intrigues me.",
-        image: "../public/peru.jpg"
+        image: "images/peru.jpg"
     },
     {
         id: 3,
@@ -27,7 +27,7 @@ export default [
         startDate: "2025",
         endDate: "To Be Determined",
         description: "I have always been interested in Ancient greece ever since my fixation on world history started. I love learning about the beliefs and customs of the Greeks back in the day and I know that this site was very important to them.",
-        image: "../public/athens.jpg"
+        image: "images/athens.jpg"
     },
     {
         id: 4,
@@ -37,6 +37,6 @@ export default [
         startDate: "2025",
         endDate: "To Be Determined",
         description: "I'm sure everyone has seen the famous and recognizable polynesian stones that visitors swarm to see. I have only seen them in photos like most people have, but I would love to see them in person",
-        image: "../public/easter.jpg"
+        image: "images/public/easter.jpg"
     }
 ]
