@@ -37,6 +37,6 @@ export default [
         startDate: "2025",
         endDate: "To Be Determined",
         description: "I'm sure everyone has seen the famous and recognizable polynesian stones that visitors swarm to see. I have only seen them in photos like most people have, but I would love to see them in person",
-        image: "images/public/easter.jpg"
+        image: "images/easter.jpg"
     }
 ]
